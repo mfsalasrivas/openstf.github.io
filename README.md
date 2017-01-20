@@ -7,3 +7,5 @@ Public site for http://openstf.github.io
 See [LICENSE](LICENSE).
 
 Copyright © CyberAgent, Inc. All Rights Reserved.
+
+OKI DOKY
